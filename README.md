@@ -20,5 +20,8 @@ This Python project is designed to interact with the Star Wars API (SWAPI) to fe
 - **Retrieving Data**: Fetches and prints the `_id` and `name` of characters stored in the database.
 
 ## Conclusion
-This project demonstrates basic Python scripting abilities, API interaction, data handling, and working with MongoDB. It showcases handling different aspects of data fetching, storage, retrieval, and database management in Python.
-```
+This project demonstrates Python scripting abilities, API interaction, data handling, and working with MongoDB. It showcases handling different aspects of data fetching, storage, retrieval, and database management in Python.
+
+## Acknowledgments
+
+- SWAPI for providing the Star Wars data.
